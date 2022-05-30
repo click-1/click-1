@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @click-1
-- 👀 I’m interested in ...my interests.
-- 🌱 I’m currently learning ...as much as I can.
-- 💞️ I’m looking to collaborate on ...something.
-- 📫 How to reach me ...DON'T.
-- :fire: "When they go low, we stay high :sunglasses: :smoking:" -Ancient Chinese proverb
+- 👀 and this is my passion project!
 
 <!---
 click-1/click-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
